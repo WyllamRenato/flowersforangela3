@@ -1,6 +1,6 @@
 </head>
 <body style="font-family: Arial, Helvetica, sans-serif;">
-<video width="600" src="videos/flowersforangela.mp4" controls muted autoplay>videos/flowersforangela.mp4</video>
+<img src="imagens/flowerforangela.png"</img>
 
 <h2>Link</h2>
 <a href="https://wyllamrenato.github.io/flowersforangela3/">https://wyllamrenato.github.io/flowersforangela3/</a>
